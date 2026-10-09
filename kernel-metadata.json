@@ -1,0 +1,17 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/kaggle-ollama-gpu-tunnel",
+  "title": "kaggle-ollama-gpu-tunnel",
+  "code_file": "kaggle_ollama_qwen.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": ["ollama", "qwen", "cloudflared", "gpu"],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}
